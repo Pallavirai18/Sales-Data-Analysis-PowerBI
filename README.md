@@ -1,19 +1,53 @@
-# Sales Data Analysis using Power BI
+# Sales Data Analysis Dashboard (Power BI)
 
-This project presents a Sales Dashboard created using Power BI.
+## 📌 Internship Project - FUTURE_DS_01
 
-## Project Overview
-- Analyzed sales performance
-- Created KPI metrics (Total Sales, Profit, Shipments)
-- Visualized monthly trends
-- Built interactive dashboard
+This project was completed as part of the FUTURE_DS_01 Data Science Internship program.
 
-## Tools Used
+## 📊 Project Overview
+
+The objective of this project is to analyze sales data and create an interactive Power BI dashboard to extract meaningful business insights.
+
+The dashboard helps in:
+- Tracking total sales performance
+- Analyzing profit trends
+- Identifying top-performing products
+- Understanding regional sales distribution
+- Monitoring customer and category performance
+
+## 🛠 Tools & Technologies Used
+
 - Power BI
-- Excel / Dataset
-- GitHub
+- Microsoft Excel (Dataset)
+- Data Cleaning & Transformation
+- Data Visualization
+- DAX (Data Analysis Expressions)
 
-## Files Included
-sales.png
+## 📈 Dashboard Features
+
+- KPI Cards (Total Sales, Total Profit, Quantity Sold)
+- Sales by Region
+- Sales by Category
+- Monthly Sales Trend
+- Top Products Analysis
+- Interactive Filters & Slicers
+
+## 📂 Project Files
+
+-sales.png
+
+## 🎯 Key Insights
+
+- Identified high-performing regions contributing maximum revenue.
+- Analyzed product categories generating highest profit.
+- Observed monthly sales trends for business growth evaluation.
+
+## 👩‍💻 Author
+
+Name: Pallavirai  
+Internship Program: FUTURE_DS_01  
+Role: Data Science Intern
+
+
 
 
